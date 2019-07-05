@@ -1,0 +1,7 @@
+convert with fieldtrip
+extract xltek
+plot with chronux
+time-freq example
+standard filtering / spextrogram parameters
+how to access Google Sheets
+...
