@@ -71,6 +71,22 @@
 *.dcm
 
 ## MATLAB
+# Data Files
+*.mat
+*.wav 
+*.flacc
+*.ogg
+*.avi
+*.xls
+*.xlsx
+*.xml
+*.hdf
+*.h5
+*.mp4
+*.mpg
+*.mov
+*.stl
+
 # Figure
 *.fig
 *.eps
